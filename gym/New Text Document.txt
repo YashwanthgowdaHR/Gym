@@ -1,0 +1,1 @@
+create table users (first varchar(50), last varchar(50),email varchar(500) not null primary key,pass varchar(1024) not null,doj date not null);
